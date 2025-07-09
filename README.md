@@ -2,8 +2,8 @@
 
 # 👋 Olá! Eu sou o Nando Cardoso
 
-🎯 Sou um sonhador apaixonado por ensinar e aprender.  
-🎓 Estou em constante evolução para me tornar um desenvolvedor **Fullstack** e **Mobile**.
+🎯 Sou um realizador de sonhos e apaixonado por ensinar e aprender.  
+🎓 Estou buscando constante evolução e hoje me dedico a formar novas pessoas que sonham e realizam.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -16,12 +16,12 @@
 
 ## 🌱 Em Desenvolvimento
 
-Atualmente estou focado em:
+Atualmente:
 
-- Aprimorar minhas habilidades em **Flutter** e **React**
-- Me aprofundar em **back-end com TypeScript**
-- Criar projetos que unam automação com desenvolvimento fullstack
-- Análise de dados em python
+- Aprimorar minhas habilidades e de outras pessoas
+- Amo trabalhar onde estou
+- Desenvolvo Jogos e tento fazer o melhor para vida das pessoas
+- Ensinar e aprender sempre
 
 ## 📫 Contato
 
