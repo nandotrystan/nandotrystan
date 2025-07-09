@@ -21,6 +21,7 @@ Atualmente estou focado em:
 - Aprimorar minhas habilidades em **Flutter** e **React**
 - Me aprofundar em **back-end com TypeScript**
 - Criar projetos que unam automação com desenvolvimento fullstack
+- Análise de dados em python
 
 ## 📫 Contato
 
